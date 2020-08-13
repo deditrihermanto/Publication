@@ -1,12 +1,12 @@
 Software  : Colab Google (https://colab.research.google.com/)
+First Download All Files into your machine, and the follow the instruction below
 
 How to Use
-1. Download All Files
-2. Open Sentiment Analysis Using LSTM and CNN.ipynb using google pro
-3. Upload function.py into your directory
-4. Upload all models *.h5 into your directory
-5. Change judulBerita to analyse sentiment of the new text
-6. Run all the codes
+1. Open Sentiment Analysis Using LSTM and CNN.ipynb using your colab google 
+2. Upload function.py into your directory
+3. Upload all models *.h5 into your directory
+4. Change judulBerita to analyse sentiment of the new text
+5. Run all the codes
 
 
 or you can access from my colab google below
