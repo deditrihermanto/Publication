@@ -14,6 +14,7 @@ class InputSentence:
 	def Predict(self):
 			import re
 			import nltk
+			nltk.download('punkt', quiet=True)
 			from nltk.tokenize import word_tokenize
 			from tensorflow.keras.preprocessing.text import Tokenizer
 			from tensorflow.keras.preprocessing.sequence import pad_sequences
